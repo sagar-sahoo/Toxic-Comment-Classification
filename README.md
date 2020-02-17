@@ -12,10 +12,15 @@ Libraries Used - pandas, sklearn (TfidfVectorizer, LogisticRegression, model_sel
 Results:
 
 CV score for class toxic is 0.9700949143980843
+
 CV score for class severe_toxic is 0.9877221710996867
+
 CV score for class obscene is 0.9849319646541103
+
 CV score for class threat is 0.983317402444328
+
 CV score for class insult is 0.9781087047384173
+
 CV score for class identity_hate is 0.9746353857844813
 
 Total CV score is 0.979801757186518
